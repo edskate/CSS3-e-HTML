@@ -27,3 +27,14 @@ p.text1{
 h1.text2{
     color: rgb(255,255,255);
 }
+.container-book1 p, h1{
+    background-color: #400000;
+    margin: 25px;
+    border: 2px solid #0080ff;
+    text-align: center;
+    box-shadow: 10px 10px 15px #f7d5d5 ;
+}
+
+a{
+    color: #f7d5d5;
+}
